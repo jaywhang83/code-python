@@ -52,4 +52,4 @@ def game():
             print "It was " + computer_choice + "." + " You win!"
 
 
-game()  # Executes the game function 
+game()  # Executes the game function
